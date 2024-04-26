@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/JuanMiranda1998/interactive-pricing-frontend-mentor)
-- Live Site URL: [Netlify](https://example.com)
+- Live Site URL: [Netlify](https://interactive-pricing-juanmiranda.netlify.app)
 
 ## My process
 

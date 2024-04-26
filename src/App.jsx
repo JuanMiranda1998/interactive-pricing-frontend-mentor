@@ -133,15 +133,15 @@ function App() {
           <div className="flex flex-col md:flex-row justify-center md:justify-between items-center p-8 md:px-12 md:py-10">
             <div className="flex flex-col items-start">
               <div className="flex flex-row justify-center items-center gap-2 md:gap-6 mb-3">
-                <img src="./src/assets/images/icon-check.svg" />
+                <img src="./assets/images/icon-check.svg" />
                 <p className="text-xs md:text-sm md:tracking-wide">Unlimited websites</p>
               </div>
               <div className="flex flex-row justify-center items-center gap-2 md:gap-6 mb-3">
-                <img src="./src/assets/images/icon-check.svg" />
+                <img src="./assets/images/icon-check.svg" />
                 <p className="text-xs md:text-sm md:tracking-wide">100% data ownership</p>
               </div>
               <div className="flex flex-row justify-center items-center gap-2 md:gap-6">
-                <img src="./src/assets/images/icon-check.svg" />
+                <img src="./assets/images/icon-check.svg" />
                 <p className="text-xs md:text-sm md:tracking-wide">Email reports</p>
               </div>
             </div>

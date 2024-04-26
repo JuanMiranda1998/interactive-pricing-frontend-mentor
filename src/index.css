@@ -8,13 +8,13 @@
       font-style: normal;
       font-weight: 800;
       font-display: swap;
-      src: url(./src/assets/fonts/manrope-extrabold-webfont.woff2) format('woff2');
+      src: url(./assets/fonts/manrope-extrabold-webfont.woff2) format('woff2');
     }
     @font-face {
         font-family: 'ManropeSemibold';
         font-style: normal;
         font-weight: 600;
         font-display: swap;
-        src: url(./src/assets/fonts/manrope-semibold-webfont.woff2) format('woff2');
+        src: url(./assets/fonts/manrope-semibold-webfont.woff2) format('woff2');
       }
   }
