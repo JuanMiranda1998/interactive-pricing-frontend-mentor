@@ -4,8 +4,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'background-pattern': "url('./src/assets/images/bg-pattern.svg')",
-        'pattern-circles': "url('./src/assets/images/pattern-circles.svg')",
+        'background-pattern': "url('/bg-pattern.svg')",
+        'pattern-circles': "url('/pattern-circles.svg')",
       }
     },
     backgroundPosition: {
