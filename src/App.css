@@ -139,3 +139,6 @@
 .toggle-switch input[type="checkbox"]:checked + .toggle-switch-background .toggle-switch-handle {
   transform: translateX(15px);
 }
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
